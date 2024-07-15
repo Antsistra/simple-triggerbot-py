@@ -40,7 +40,6 @@ pip install opencv-python pyautogui numpy Pillow
 - radius : The radius of the target used to detect if the
   cursor is within the target area. You may need to adjust
   this value depending on your requirements.
-
 - threshold : The threshold value for template matching.
   Adjust this value to improve detection accuracy.
 
